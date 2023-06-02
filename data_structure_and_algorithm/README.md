@@ -1,0 +1,35 @@
+# Data Struture and Algorithm
+
+## Approach
+
+1. Clarify the question
+    - Ambiguous requirements
+    - Edge cases
+2. Establish test cases
+3. Explain solution
+4. State Time and Space Complexity
+    - Sum Rule
+    - Product Rule
+5. Code
+6. Dry run
+
+## Coding
+
+-   Recursion
+    -   Always use base case instead of guarding if case
+    -   Return the same object type
+-   LinkedList
+    -   Do not prematurely check next. Stay present
+        -   while (current !== null) vs while (current.next !== null)
+    -   Use sentinel node
+-   Arrays
+    -   map, reduce, filter
+    -   array.join() to compare Strings
+-   Objects
+    -   nullish coalescing operator (??) to assign
+    -   array.join("&") to convert array to string as key
+-   Big O Notation
+    -   Analyzing Functions with Multiple Arguments
+        -   O(max(m, n))
+        -   O(n) where n is the length of the longer string
+    -   Space complexity in recursion is stack height

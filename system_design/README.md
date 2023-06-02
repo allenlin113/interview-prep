@@ -11,7 +11,7 @@
 
 ## Steps
 
--   Based off - [interviewing.io System Design Interview Guide](https://interviewing.io/guides/system-design-interview)
+-   Based off: [interviewing.io System Design Interview Guide](https://interviewing.io/guides/system-design-interview)
 
 1. Requirements
     - Functional Requirements
