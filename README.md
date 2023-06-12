@@ -15,6 +15,7 @@
     -   [Quick Sort](#quick-sort)
     -   [Merge Sort](#merge-sort)
     -   [Tree Traversal](#tree-traversal)
+    -   [Dynamic Programming](#dynamic-programming)
 -   [Coding Patterns](#coding-patterns)
     -   [Cyclic Sort](#cyclic-sort)
     -   [In-Place Reversal of a LinkedList](#in-place-reversal-of-a-linkedlist)
@@ -35,8 +36,9 @@ class ListNode {
 ```
 
 ### Binary Trees
-- [Binary Tree Algorithms for Technical Interviews - Full Course
-](https://www.youtube.com/watch?v=fAAZixBzIAI)
+
+-   [Binary Tree Algorithms for Technical Interviews - Full Course
+    ](https://www.youtube.com/watch?v=fAAZixBzIAI)
 
 ```javascript
 class TreeNode {
@@ -331,6 +333,30 @@ var merge = function (left, right) {
 ```
 
 ### Tree Traversal
+
+### Dynamic Programming
+
+-   [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges
+    ](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+
+#### Top-Down (Memoization)
+- Recipe
+	1. Make it work
+		- Visualize the problem as a tree
+		- Implement tree using **recursion**
+		- Test it
+	2. Make it efficient
+		- Add memo object
+		- Add base case to return memo object
+		- Store return values as memo object
+
+#### Bottom-Up (Tabulation)
+- Recipe
+	1. Visualize the problem as a table
+	2. Size the table based on the inputs
+	3. Initialize the table with default values
+	4. Seed the trivial answers into the table
+	5. **Iterate** through the table
 
 ## Coding Patterns
 
