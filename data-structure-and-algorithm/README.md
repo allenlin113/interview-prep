@@ -21,7 +21,7 @@
 -   LinkedList
     -   Do not prematurely check next. Stay present
         -   while (current !== null) vs while (current.next !== null)
-    -   Use sentinel node
+    -   Use [sentinel node](https://en.wikipedia.org/wiki/Sentinel_node)
 -   Arrays
     -   map, reduce, filter
     -   array.join() to compare Strings
