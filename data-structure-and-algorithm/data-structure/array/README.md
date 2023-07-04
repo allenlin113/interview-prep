@@ -1,5 +1,8 @@
 # Array
 
+- map, reduce, filter
+- array.join() to compare Strings
+
 ## Binary Search
 
 ```javascript

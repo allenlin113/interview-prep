@@ -27,18 +27,6 @@ Notes
 - Always use base case instead of guarding if case
 - Return the same object type
 
-## Coding (Updating)
--   LinkedList
-    -   Do not prematurely check next. Stay present
-        -   while (current !== null) vs while (current.next !== null)
-    -   Use [sentinel node](https://en.wikipedia.org/wiki/Sentinel_node)
--   Arrays
-    -   map, reduce, filter
-    -   array.join() to compare Strings
--   Objects
-    -   nullish coalescing operator (??) to assign
-    -   array.join("&") to convert array to string as key
-
 ### HashMap
 
 ```javascript
@@ -46,6 +34,9 @@ const map = new Map();
 ```
 
 ### Objects
+
+-   nullish coalescing operator (??) to assign
+-   array.join("&") to convert array to string as key
 
 ```javascript
 const obj = new Obj;
