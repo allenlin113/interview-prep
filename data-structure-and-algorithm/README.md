@@ -38,3 +38,17 @@ Notes
 -   Objects
     -   nullish coalescing operator (??) to assign
     -   array.join("&") to convert array to string as key
+
+### HashMap
+
+```javascript
+const map = new Map();
+```
+
+### Objects
+
+```javascript
+const obj = new Obj;
+
+// Check if key exists in Object
+if ("key" in obj)

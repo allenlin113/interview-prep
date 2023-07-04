@@ -14,7 +14,7 @@ class TreeNode {
 }
 ```
 
-## Binary Tree BFS Traversal
+## Breadth-first Search
 
 ```javascript
 const bfs = (root) => {
@@ -34,7 +34,7 @@ const bfs = (root) => {
 };
 ```
 
-## Binary Tree DFS
+## Depth-first Search
 
 ### Iterative
 ```javascript
