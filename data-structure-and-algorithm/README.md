@@ -13,11 +13,21 @@
 5. Code
 6. Dry run
 
-## Coding
+## Big O Notation
+1. [The Complete Guide to Big O Notation & Complexity Analysis for Algorithms: Part 1 of 2
+](https://www.youtube.com/watch?v=HfIH3czXc-8)
+2. [The Complete Guide to Big O Notation & Complexity Analysis for Algorithms: Part 2 of 2
+](https://www.youtube.com/watch?v=zo7YFqw5hNw)
 
--   Recursion
-    -   Always use base case instead of guarding if case
-    -   Return the same object type
+## Recursion
+1. [Intro to Recursion: Anatomy of a Recursive Solution](https://www.youtube.com/watch?v=yBWlPte6FhA)
+2. [Complex Recursion Explained Simply](https://www.youtube.com/watch?v=wRH2I6IN4BE)
+
+Notes
+- Always use base case instead of guarding if case
+- Return the same object type
+
+## Coding (Updating)
 -   LinkedList
     -   Do not prematurely check next. Stay present
         -   while (current !== null) vs while (current.next !== null)
@@ -28,15 +38,3 @@
 -   Objects
     -   nullish coalescing operator (??) to assign
     -   array.join("&") to convert array to string as key
--   Big O Notation
-    -   Analyzing Functions with Multiple Arguments
-        -   O(max(m, n))
-        -   O(n) where n is the length of the longer string
-    -   Space complexity in recursion is stack height
-
-## Big O Notation
-1. [The Complete Guide to Big O Notation & Complexity Analysis for Algorithms: Part 1 of 2
-](https://www.youtube.com/watch?v=HfIH3czXc-8)
-2. [The Complete Guide to Big O Notation & Complexity Analysis for Algorithms: Part 2 of 2
-](https://www.youtube.com/watch?v=zo7YFqw5hNw)
-
