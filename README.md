@@ -4,7 +4,7 @@
 
 ### Data Structure and Algorithm
 
-(NeetCode Roadmap)[https://neetcode.io/roadmap]
+[NeetCode Roadmap](https://neetcode.io/roadmap)
 
 - **Data Structures**: Linked Lists, Binary Trees, Tries, Stacks, Vectors / ArrayLists, Queues, Hash Tables
 - **Algorithms**: Breadth First Search, Depth First Search, Binary Search, Merge Sort, Tree Insert / Find, Quick Sort
@@ -26,4 +26,4 @@
 - Create profile and download extension.
 
 ### Resources
-- (Tech Interview Handbook)[https://www.techinterviewhandbook.org/]
+[Tech Interview Handbook](https://www.techinterviewhandbook.org/)
