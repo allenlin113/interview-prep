@@ -1,4 +1,4 @@
-# Tries
+# Trie
 
 ```javascript
 /**

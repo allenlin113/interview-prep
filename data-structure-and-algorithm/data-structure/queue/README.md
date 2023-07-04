@@ -1,4 +1,4 @@
-# Queues
+# Queue
 
 ```javascript
 const queue = [];
