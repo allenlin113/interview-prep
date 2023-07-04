@@ -33,3 +33,10 @@
         -   O(max(m, n))
         -   O(n) where n is the length of the longer string
     -   Space complexity in recursion is stack height
+
+## Big O Notation
+1. [The Complete Guide to Big O Notation & Complexity Analysis for Algorithms: Part 1 of 2
+](https://www.youtube.com/watch?v=HfIH3czXc-8)
+2. [The Complete Guide to Big O Notation & Complexity Analysis for Algorithms: Part 2 of 2
+](https://www.youtube.com/watch?v=zo7YFqw5hNw)
+
