@@ -20,7 +20,7 @@
 
 ### Simplify
 
-(simplify.jobs)[https://simplify.jobs/?invite=f4f729bd1ce&utm_source=referral]
+[simplify.jobs](https://simplify.jobs/?invite=f4f729bd1ce&utm_source=referral)
 
 - Autofills applications on millions on sites (greenhouse, lever, icims, workday, etc).
 - Create profile and download extension.
