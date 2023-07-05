@@ -1,6 +1,5 @@
 /* 
 	State 
-	
 */
 const isValidState = (state) => {
     // Check if it is a valid solution

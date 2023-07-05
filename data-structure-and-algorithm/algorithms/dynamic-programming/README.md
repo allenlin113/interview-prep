@@ -21,9 +21,18 @@
 4.  Seed the trivial answers into the table
 5.  **Iterate** through the table
 
-### LeetCode Questions
+## LeetCode Questions
 
 -   [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
--   [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
--   [62. Unique Paths](https://leetcode.com/problems/unique-paths)
--   [139. Word Break](https://leetcode.com/problems/word-break/)
+-   Combination Sums
+    -   [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
+    -   [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+    -   [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+    -   [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+    -   [77. Combinations](https://leetcode.com/problems/combinations/)
+-   Unique Paths
+    -   [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
+    -   [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+-   Word Break
+    -   [139. Word Break](https://leetcode.com/problems/word-break/)
+    -   [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
