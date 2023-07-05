@@ -1,6 +1,6 @@
 # Array
 
--   map(), reduce(), filter()
+-   Use Array functions: map(), reduce(), filter()
 -   Array.join() to compare Strings
 
 ## Binary Search
