@@ -2,9 +2,9 @@
 
 [Linked Lists for Technical Interviews - Full Course](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
 
-- Do not prematurely check next. Stay present
-	- while (current !== null) vs while (current.next !== null)
-- Use [sentinel node](https://en.wikipedia.org/wiki/Sentinel_node)
+-   Do not prematurely check next. Stay present
+    -   while (current !== null) vs while (current.next !== null)
+-   Use [sentinel node](https://en.wikipedia.org/wiki/Sentinel_node)
 
 ## ListNode Implementation
 

@@ -2,7 +2,25 @@
 
 ## Questions to Ask
 
+### Everyone
+
+-   What made you choose this company?
+
 ### Recruiters
-1. What is the interview process?
-2. What team and product is this role for?
-3. What is the engineering team composition?
+
+-   What is the interview process?
+-   What team and product is this role for?
+-   What is the engineering team composition?
+
+### Engineers
+
+-   What tasks/projects are you current working on?
+-   Step me through the development process.
+-   What is your favorite project you worked on?
+-   How would you describe your engineering culture?
+
+### Managers
+
+-   How do you onboard new engineers and what are the current challenges with onboarding?
+-   How do you grow your engineers?
+-   What is your management philosophy?

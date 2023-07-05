@@ -2,12 +2,12 @@
 
 ## Notes
 
-- Constraints + Tradeoffs
-- How do the decisions affect the end users
-- Use generic names of components, instead of brand names
-- “I don’t know” ➡ “I don’t have hands on experience with ... but I have read about it. This is what I read.”
-- Do not check in on every decision. Check in on every milestone.
-- "These are the things I can think of right now. If something else comes up, I will update this"
+-   Constraints & Tradeoffs
+-   How do the decisions affect the end users
+-   Use generic names of components, instead of brand names
+-   "I don't know" ➡ "I don't have hands on experience with... but I have read about it. This is what I read."
+-   Do not check in on every decision. Check in on every milestone.
+-   "These are the things I can think of right now. If something else comes up, I will update this"
 
 ## Steps
 
@@ -24,7 +24,7 @@
         - Performance
             - Which access patterns require good performance?
         - Consistency vs Availability
-    - Are there any important requirements you have in mind that I’ve overlooked?
+    - Are there any important requirements you have in mind that I've overlooked?
 2. Data Modeling, API, and Scale
     - Data Modeling
         - Structured data

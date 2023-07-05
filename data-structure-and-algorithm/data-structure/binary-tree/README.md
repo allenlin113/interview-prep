@@ -37,6 +37,7 @@ const bfs = (root) => {
 ## Depth-first Search
 
 ### Iterative
+
 ```javascript
 const dfs = (root) => {
     const stack = [root];
@@ -51,6 +52,7 @@ const dfs = (root) => {
 ```
 
 ### Recursive
+
 ```javascript
 const dfs = (root) {
 	if (!root) return;

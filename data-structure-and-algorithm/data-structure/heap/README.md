@@ -9,5 +9,3 @@
 const minHeap = new MinPriorityQueue();
 const maxHeap = new MaxPriorityQueue();
 ```
-
-
