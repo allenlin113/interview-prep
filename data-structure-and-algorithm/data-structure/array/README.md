@@ -1,7 +1,7 @@
 # Array
 
-- map, reduce, filter
-- array.join() to compare Strings
+-   map(), reduce(), filter()
+-   Array.join() to compare Strings
 
 ## Binary Search
 

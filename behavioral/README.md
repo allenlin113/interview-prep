@@ -24,3 +24,7 @@
 -   How do you onboard new engineers and what are the current challenges with onboarding?
 -   How do you grow your engineers?
 -   What is your management philosophy?
+
+## Negotiations
+
+-   [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
