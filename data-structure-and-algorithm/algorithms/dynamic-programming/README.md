@@ -1,11 +1,8 @@
 # Dynamic Programming
 
--   [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges
-    ](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 
 ## Top-Down (Memoization)
-
-Recipe
 
 1.  Make it work
     -   Visualize the problem as a tree
@@ -17,8 +14,6 @@ Recipe
     -   Store return values as memo object
 
 ## Bottom-Up (Tabulation)
-
-Recipe
 
 1.  Visualize the problem as a table
 2.  Size the table based on the inputs

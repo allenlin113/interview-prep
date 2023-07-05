@@ -14,7 +14,7 @@ const getCandidates = (state) => {
 const search = (state, solutions) => {
     if (isValidState(state)) {
         // solutions.push(state.copy); python
-		// solutions.push([...state]); js
+        // solutions.push([...state]); js
         // return
     }
 
