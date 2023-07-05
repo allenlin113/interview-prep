@@ -18,14 +18,13 @@ class TreeNode {
 
 ```javascript
 const bfs = (root) => {
-    if (!root) return [];
-
     const queue = [root];
 
     while (queue.length > 0) {
         const levelSize = queue.length;
         for (let i = 0; i < levelSize; i++) {
             const current = queue.shift();
+            console.log(current.val);
             if (current.left) queue.push(current.left);
             if (current.right) queue.push(current.right);
         }
@@ -54,11 +53,12 @@ const dfs = (root) => {
 ### Recursive
 
 ```javascript
-const dfs = (root) {
-	if (!root) return;
-	console.log(root.val);
+const dfs = (root) => {
+    if (!root) return;
 
-	dfs(root.left);
-	dfs(root.right);
-}
+    console.log(root.val);
+
+    dfs(root.left);
+    dfs(root.right);
+};
 ```
