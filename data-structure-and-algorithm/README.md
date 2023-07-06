@@ -101,4 +101,10 @@ const obj = {};
 
 // Check if key exists in Object
 if ("key" in obj)
+
+// Get list of all keys
+const keys = Object.keys(obj);
+
+// Get number of keys
+const numKeys = Object.keys(obj).length;
 ```

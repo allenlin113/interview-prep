@@ -1,8 +1,10 @@
-## Graph
+# Graph
 
-[Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
+## Graph Algorithms for Technical Interviews - Full Course
 
-### Topological Sort
+[![Graph Algorithms for Technical Interviews - Full Course](https://img.youtube.com/vi/tWVWeAqZ0WU/0.jpg)](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
+
+## Topological Sort
 
 ```javascript
 /**
@@ -40,3 +42,7 @@ var canFinish = function (numCourses, prerequisites) {
     return sortedOrder.length === numCourses;
 };
 ```
+
+## LeetCode Questions
+
+-   [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary)
