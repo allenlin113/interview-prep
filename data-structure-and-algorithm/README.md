@@ -32,17 +32,41 @@ The Complete Guide to Big O Notation & Complexity Analysis for Algorithms
 
 ## Recursion
 
-[Intro to Recursion: Anatomy of a Recursive Solution](https://www.youtube.com/watch?v=yBWlPte6FhA)
-[Complex Recursion Explained Simply](https://www.youtube.com/watch?v=wRH2I6IN4BE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+[![Intro to Recursion: Anatomy of a Recursive Solution](https://img.youtube.com/vi/yBWlPte6FhA/0.jpg)](https://www.youtube.com/watch?v=yBWlPte6FhA)
+[![Complex Recursion Explained Simply](https://img.youtube.com/vi/wRH2I6IN4BE/0.jpg)](https://www.youtube.com/watch?v=wRH2I6IN4BE)
 
 -   Always use base case instead of guarding if case
 -   Return the same object type
 
 ## Leet Code Progressions
 
--   [Arrays & Hashing](#arrays-&-hashing)
+-   [Arrays & Hashing](#arrays--hashing)
+    -   Two Pointers
+        -   Fast & Slow Pointers
+        -   Merge Intervals
+    -   Sliding Windows
+    -   Sorting
+        -   Quicksort
+        -   Mergesort
+        -   Cyclicsort
+    -   Stack
+    -   Queue
+    -   Binary Search
+-   LinkedList
+-   Strings
+-   Trees
+    -   BFS
+    -   DFS
+-   Tries
+-   Backtracking
+-   Graphs (Matrix)
+    -   Topological Sort
+-   Dynamic Programming
+-   Heaps / Priority Queue
 
-## Arrays & Hashing
+### Arrays & Hashing
 
 | Problem                                                                      | Difficulty | Pattern      |
 | ---------------------------------------------------------------------------- | ---------- | ------------ |
