@@ -32,8 +32,13 @@ The Complete Guide to Big O Notation & Complexity Analysis for Algorithms
 
 ## Recursion
 
--   [![Intro to Recursion: Anatomy of a Recursive Solution](https://img.youtube.com/vi/yBWlPte6FhA/0.jpg)](https://www.youtube.com/watch?v=yBWlPte6FhA)
--   [![Complex Recursion Explained Simply](https://img.youtube.com/vi/wRH2I6IN4BE/0.jpg)](https://www.youtube.com/watch?v=wRH2I6IN4BE)
+### Intro to Recursion: Anatomy of a Recursive Solution
+
+[![Intro to Recursion: Anatomy of a Recursive Solution](https://img.youtube.com/vi/yBWlPte6FhA/0.jpg)](https://www.youtube.com/watch?v=yBWlPte6FhA)
+
+### Complex Recursion Explained Simply
+
+[![Complex Recursion Explained Simply](https://img.youtube.com/vi/wRH2I6IN4BE/0.jpg)](https://www.youtube.com/watch?v=wRH2I6IN4BE)
 
 -   Always use base case instead of guarding if case
 -   Return the same object type
