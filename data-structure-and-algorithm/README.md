@@ -28,6 +28,8 @@ The Complete Guide to Big O Notation & Complexity Analysis for Algorithms
 -   [Part 1 of 2](https://www.youtube.com/watch?v=HfIH3czXc-8)
 -   [Part 2 of 2](https://www.youtube.com/watch?v=zo7YFqw5hNw)
 
+[Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+
 ## Recursion
 
 [Intro to Recursion: Anatomy of a Recursive Solution](https://www.youtube.com/watch?v=yBWlPte6FhA)
@@ -35,6 +37,23 @@ The Complete Guide to Big O Notation & Complexity Analysis for Algorithms
 
 -   Always use base case instead of guarding if case
 -   Return the same object type
+
+## Leet Code Progressions
+
+-   [Arrays & Hashing](#arrays-&-hashing)
+
+## Arrays & Hashing
+
+| Problem                                                                      | Difficulty | Pattern      |
+| ---------------------------------------------------------------------------- | ---------- | ------------ |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/)                         | 🟢         | Two Pointers |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢         |              |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)           | 🟢         |              |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)          | 🟡         |              |
+| [15. 3Sum](https://leetcode.com/problems/3sum/)                              | 🟡         |              |
+| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)              | 🟡         |              |
+| [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)             | 🟡         |              |
+| [18. 4Sum](https://leetcode.com/problems/4sum/)                              | 🟡         |              |
 
 ## Map
 
