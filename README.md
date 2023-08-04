@@ -10,3 +10,5 @@
 ## Resources
 
 [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+
+Resume Parser: https://jobcloud-hrtech.com/en/test-now
