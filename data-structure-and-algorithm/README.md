@@ -4,9 +4,16 @@
 
 [NeetCode Roadmap](https://neetcode.io/roadmap)
 
--   **Data Structures**: Linked Lists, Binary Trees, Tries, Stacks, Vectors / ArrayLists, Queues, Hash Tables
--   **Algorithms**: Breadth First Search, Depth First Search, Binary Search, Merge Sort, Tree Insert / Find, Quick Sort
--   **Concepts**: Bit Manipulation, Singleton Design Pattern, Factory Design Pattern, Memory (Stack vs. Heap), Recursion, Big-O Time
+| Data Structures      | Algorithms               | Concepts                 |
+| -------------------- | ------------------------ | ------------------------ |
+| Linked Lists         | Breadth First Search     | Bit Manipulation         |
+| Binary Trees         | Depth First Search       | Singleton Design Pattern |
+| Tries                | Binary Search            | Factory Design Pattern   |
+| Stacks               | Merge Sort               | Memory (Stack vs. Heap)  |
+| Queues               | Quick Sort               | Recursion                |
+| Vectors / ArrayLists | Tree Insert / Find / etc | Big-O Time               |
+| Hash Tables          |                          |                          |
+|                      |                          |                          |
 
 ## Approach
 
